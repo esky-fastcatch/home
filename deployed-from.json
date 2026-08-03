@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "0f4e8b6022a45adc61e4f63309523788cbd1fa48",
-  "sourceCommitDate": "2026-08-03T18:28:28+09:00",
-  "sourceSubject": "Windows 에서 배포 스크립트의 빌드 단계가 실패하던 문제 수정",
-  "deployedAt": "2026-08-03T09:28:54.189Z"
+  "sourceCommit": "57b1f5f6b4183e45828ecf283b0b4662b861ec75",
+  "sourceCommitDate": "2026-08-03T18:30:25+09:00",
+  "sourceSubject": "배포 스크립트의 npm 실행 방식을 지원 중단 경고 없는 형태로 정리",
+  "deployedAt": "2026-08-03T09:30:47.294Z"
 }
