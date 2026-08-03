@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "a9df944b6cc137bcc2f9121dd910ceaec8019ee9",
-  "sourceCommitDate": "2026-08-03T13:55:57+09:00",
-  "sourceSubject": "진행 상황 인수인계 문서 추가",
-  "deployedAt": "2026-08-03T07:44:18.758Z"
+  "sourceCommit": "0f4e8b6022a45adc61e4f63309523788cbd1fa48",
+  "sourceCommitDate": "2026-08-03T18:28:28+09:00",
+  "sourceSubject": "Windows 에서 배포 스크립트의 빌드 단계가 실패하던 문제 수정",
+  "deployedAt": "2026-08-03T09:28:54.189Z"
 }
