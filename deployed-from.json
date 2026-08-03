@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "ee594c4f226675c39fdcc57d2285e9efe46911da",
-  "sourceCommitDate": "2026-08-04T08:31:08+09:00",
-  "sourceSubject": "텔레그램 수신자 목록의 구분자 처리를 넓히고 중복을 제거",
-  "deployedAt": "2026-08-03T23:31:31.849Z"
+  "sourceCommit": "b2cc2b33cd08cec259ba3c999eb7935ca2d600c7",
+  "sourceCommitDate": "2026-08-04T08:56:07+09:00",
+  "sourceSubject": "`/all` 제거로 해소된 결함들을 문서에 반영",
+  "deployedAt": "2026-08-03T23:58:30.611Z"
 }
