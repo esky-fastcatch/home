@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "42a718411166d8aab0411e217cf206423bb886d4",
-  "sourceCommitDate": "2026-08-04T10:05:10+09:00",
-  "sourceSubject": "CI 도입과 저장소 정리 결과를 문서에 반영",
-  "deployedAt": "2026-08-04T01:10:52.412Z"
+  "sourceCommit": "4cebc9bd7c2aa85d46543e6d01a9f9f0146060d1",
+  "sourceCommitDate": "2026-08-04T10:17:48+09:00",
+  "sourceSubject": "테스트 하네스 도입 결과를 문서에 반영하고 CI 잡 이름을 정정",
+  "deployedAt": "2026-08-04T01:19:00.697Z"
 }
