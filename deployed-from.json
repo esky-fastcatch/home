@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "e15779fb12055e856ed9b88c981e736c1ead527a",
-  "sourceCommitDate": "2026-08-04T13:30:01+09:00",
-  "sourceSubject": "admin 회신을 반영해 전달 문서를 정정",
-  "deployedAt": "2026-08-04T04:50:47.549Z"
+  "sourceCommit": "812393f5ba6b0349d4243125d0424c6c1a5ea3f4",
+  "sourceCommitDate": "2026-08-04T14:04:04+09:00",
+  "sourceSubject": "검증 규칙 테스트 추가와 미사용 코드·의존성 정리",
+  "deployedAt": "2026-08-04T05:04:28.569Z"
 }
