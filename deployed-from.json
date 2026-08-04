@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "76e944d3780e2f7b220d36acc49cfaabf495579d",
-  "sourceCommitDate": "2026-08-04T09:27:56+09:00",
-  "sourceSubject": "예약 취소를 하드 삭제에서 상태 전이로 전환하고 취소 알림을 추가 (F-27)",
-  "deployedAt": "2026-08-04T00:29:33.934Z"
+  "sourceCommit": "edec28a88f2da549e9e87fc9ddab246558815cf6",
+  "sourceCommitDate": "2026-08-04T09:42:09+09:00",
+  "sourceSubject": "지역 변경 시 화장장 초기화를 전 화면에 적용하고 장례장소 연락처 훼손을 수정 (F-04, F-10)",
+  "deployedAt": "2026-08-04T00:42:36.335Z"
 }
