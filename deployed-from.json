@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "812393f5ba6b0349d4243125d0424c6c1a5ea3f4",
-  "sourceCommitDate": "2026-08-04T14:04:04+09:00",
-  "sourceSubject": "검증 규칙 테스트 추가와 미사용 코드·의존성 정리",
-  "deployedAt": "2026-08-04T05:04:28.569Z"
+  "sourceCommit": "226c077898a8f2b6c729c67968ab89347668a48e",
+  "sourceCommitDate": "2026-08-04T14:33:08+09:00",
+  "sourceSubject": "문서를 현재 구현 기준으로 정리하고 Base44 흔적을 제거",
+  "deployedAt": "2026-08-04T05:33:35.172Z"
 }
