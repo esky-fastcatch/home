@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "edec28a88f2da549e9e87fc9ddab246558815cf6",
-  "sourceCommitDate": "2026-08-04T09:42:09+09:00",
-  "sourceSubject": "지역 변경 시 화장장 초기화를 전 화면에 적용하고 장례장소 연락처 훼손을 수정 (F-04, F-10)",
-  "deployedAt": "2026-08-04T00:42:36.335Z"
+  "sourceCommit": "42a718411166d8aab0411e217cf206423bb886d4",
+  "sourceCommitDate": "2026-08-04T10:05:10+09:00",
+  "sourceSubject": "CI 도입과 저장소 정리 결과를 문서에 반영",
+  "deployedAt": "2026-08-04T01:05:30.151Z"
 }
