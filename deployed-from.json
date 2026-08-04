@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "fc5d4c7ceedcbea9e9aaf46a5bfd254ea5abc1f2",
-  "sourceCommitDate": "2026-08-04T09:08:37+09:00",
-  "sourceSubject": "개발 모드에서 App Check 디버그 토큰을 사용하도록 설정",
-  "deployedAt": "2026-08-04T00:11:46.795Z"
+  "sourceCommit": "76e944d3780e2f7b220d36acc49cfaabf495579d",
+  "sourceCommitDate": "2026-08-04T09:27:56+09:00",
+  "sourceSubject": "예약 취소를 하드 삭제에서 상태 전이로 전환하고 취소 알림을 추가 (F-27)",
+  "deployedAt": "2026-08-04T00:29:33.934Z"
 }
