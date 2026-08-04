@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "57e80b803c1b49e9a17e35172de4c94864dd0dd5",
-  "sourceCommitDate": "2026-08-04T12:01:27+09:00",
-  "sourceSubject": "검증·일관성 결함 5건 수정 (F-19, F-09, F-13, F-11, F-31)",
-  "deployedAt": "2026-08-04T03:01:55.023Z"
+  "sourceCommit": "afd1fae962f639ff0b4e62b07b2c7e4a10be741c",
+  "sourceCommitDate": "2026-08-04T12:09:59+09:00",
+  "sourceSubject": "같은 예약번호로 추가 변경 신청을 허용하도록 중복 체크 정책 변경 (F-07)",
+  "deployedAt": "2026-08-04T03:10:13.405Z"
 }
