@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "def2d037ef71af7e3f0dde586e3c0df6a2a840bd",
-  "sourceCommitDate": "2026-08-04T12:20:42+09:00",
-  "sourceSubject": "날짜 표기 통일과 입력 소실 방지 (F-12, F-17, F-18)",
-  "deployedAt": "2026-08-04T03:21:30.065Z"
+  "sourceCommit": "e16e44fffcce37ebba43f70000360d36cacaf774",
+  "sourceCommitDate": "2026-08-04T12:28:15+09:00",
+  "sourceSubject": "알림 발송 전에 상태를 '대기' 로 되돌리도록 보완 (F-05)",
+  "deployedAt": "2026-08-04T03:28:37.045Z"
 }
