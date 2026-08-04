@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "7e6c843140d1bcbb8faedbf0c0783936cf29b529",
-  "sourceCommitDate": "2026-08-04T11:54:20+09:00",
-  "sourceSubject": "알림 발송을 기다리느라 완료 화면이 늦게 뜨던 문제 수정",
-  "deployedAt": "2026-08-04T02:54:32.983Z"
+  "sourceCommit": "57e80b803c1b49e9a17e35172de4c94864dd0dd5",
+  "sourceCommitDate": "2026-08-04T12:01:27+09:00",
+  "sourceSubject": "검증·일관성 결함 5건 수정 (F-19, F-09, F-13, F-11, F-31)",
+  "deployedAt": "2026-08-04T03:01:55.023Z"
 }
