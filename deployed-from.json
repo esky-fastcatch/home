@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "b2cc2b33cd08cec259ba3c999eb7935ca2d600c7",
-  "sourceCommitDate": "2026-08-04T08:56:07+09:00",
-  "sourceSubject": "`/all` 제거로 해소된 결함들을 문서에 반영",
-  "deployedAt": "2026-08-03T23:58:30.611Z"
+  "sourceCommit": "fc5d4c7ceedcbea9e9aaf46a5bfd254ea5abc1f2",
+  "sourceCommitDate": "2026-08-04T09:08:37+09:00",
+  "sourceSubject": "개발 모드에서 App Check 디버그 토큰을 사용하도록 설정",
+  "deployedAt": "2026-08-04T00:11:46.795Z"
 }
