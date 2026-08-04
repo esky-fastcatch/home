@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "e16e44fffcce37ebba43f70000360d36cacaf774",
-  "sourceCommitDate": "2026-08-04T12:28:15+09:00",
-  "sourceSubject": "알림 발송 전에 상태를 '대기' 로 되돌리도록 보완 (F-05)",
-  "deployedAt": "2026-08-04T03:28:37.045Z"
+  "sourceCommit": "e15779fb12055e856ed9b88c981e736c1ead527a",
+  "sourceCommitDate": "2026-08-04T13:30:01+09:00",
+  "sourceSubject": "admin 회신을 반영해 전달 문서를 정정",
+  "deployedAt": "2026-08-04T04:50:47.549Z"
 }
