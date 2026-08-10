@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "226c077898a8f2b6c729c67968ab89347668a48e",
-  "sourceCommitDate": "2026-08-04T14:33:08+09:00",
-  "sourceSubject": "문서를 현재 구현 기준으로 정리하고 Base44 흔적을 제거",
-  "deployedAt": "2026-08-04T05:33:35.172Z"
+  "sourceCommit": "452d57f885b3992265fe6a4178f8c67099f249c1",
+  "sourceCommitDate": "2026-08-09T19:06:22+09:00",
+  "sourceSubject": "접수 화면 공통 컴포넌트 정리 결과와 남은 과제를 문서로 남긴다",
+  "deployedAt": "2026-08-10T06:26:05.253Z"
 }
