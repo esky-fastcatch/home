@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "054765a84fbb1a8beede79e1ee6bb22943dd2778",
-  "sourceCommitDate": "2026-08-11T16:13:10+09:00",
-  "sourceSubject": "주민번호 분리 판단을 순수 함수로 떼고 테스트로 고정한다",
-  "deployedAt": "2026-08-11T07:39:51.112Z"
+  "sourceCommit": "4a79e07f8c854a78957152023806ad6aefb50270",
+  "sourceCommitDate": "2026-08-11T17:20:48+09:00",
+  "sourceSubject": "종결 시각을 기록해 보관기간 정리의 기준을 만든다",
+  "deployedAt": "2026-08-11T08:27:39.318Z"
 }
