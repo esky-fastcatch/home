@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "6d16074c7f93dc91af20dacc1e8b6a87b12dbfb2",
-  "sourceCommitDate": "2026-08-10T17:04:10+09:00",
-  "sourceSubject": "1차 이후 변경분에 대한 사용자 테스트 계획서를 추가한다",
-  "deployedAt": "2026-08-10T08:27:21.792Z"
+  "sourceCommit": "84a73bf515bc55c9cd0f408ed156b96f5fe36cb1",
+  "sourceCommitDate": "2026-08-11T11:46:38+09:00",
+  "sourceSubject": "알림 발송을 중계기로 옮겨 번들에서 토큰을 없앤다 (Phase 2)",
+  "deployedAt": "2026-08-11T02:49:06.352Z"
 }
