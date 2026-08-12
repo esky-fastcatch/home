@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "83d60e1a654e4b4d33e92ff3bdc9aab31c121ba4",
-  "sourceCommitDate": "2026-08-12T14:30:28+09:00",
-  "sourceSubject": "입력 항목 대장 파일명을 배포 표기 규칙에 맞춘다",
-  "deployedAt": "2026-08-12T06:04:39.058Z"
+  "sourceCommit": "2cc5bbd2ad972290ffe24f70c98646135929612e",
+  "sourceCommitDate": "2026-08-12T15:52:56+09:00",
+  "sourceSubject": "테스트 계획서를 리포 지도와 변경분 중심으로 다시 쓴다",
+  "deployedAt": "2026-08-12T06:58:43.625Z"
 }
