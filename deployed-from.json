@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "4a79e07f8c854a78957152023806ad6aefb50270",
-  "sourceCommitDate": "2026-08-11T17:20:48+09:00",
-  "sourceSubject": "종결 시각을 기록해 보관기간 정리의 기준을 만든다",
-  "deployedAt": "2026-08-11T08:27:39.318Z"
+  "sourceCommit": "83d60e1a654e4b4d33e92ff3bdc9aab31c121ba4",
+  "sourceCommitDate": "2026-08-12T14:30:28+09:00",
+  "sourceSubject": "입력 항목 대장 파일명을 배포 표기 규칙에 맞춘다",
+  "deployedAt": "2026-08-12T06:04:39.058Z"
 }
