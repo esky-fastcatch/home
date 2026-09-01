@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "c8ff5e28ad01f61f8eb2f0323a535f425b665371",
-  "sourceCommitDate": "2026-09-01T17:55:37+09:00",
-  "sourceSubject": "흔들리는 것은 고정 요소 하나뿐이었다",
-  "deployedAt": "2026-09-01T08:56:00.127Z"
+  "sourceCommit": "2de9b3d44879c0404c2861ab3ed7686dda0dd05e",
+  "sourceCommitDate": "2026-09-01T18:43:47+09:00",
+  "sourceSubject": "접수에 감시 종료일을 함께 적는다",
+  "deployedAt": "2026-09-01T09:48:46.150Z"
 }
