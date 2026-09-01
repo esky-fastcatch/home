@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "c9627c5ec5ff547f525af81e4703d261325419ed",
-  "sourceCommitDate": "2026-08-31T15:28:28+09:00",
-  "sourceSubject": "광주와 전남을 하나로 합친다",
-  "deployedAt": "2026-08-31T06:41:44.274Z"
+  "sourceCommit": "0a543fa2c0d9e12335a4e7d8e70a6e4b9b581b00",
+  "sourceCommitDate": "2026-09-01T16:54:49+09:00",
+  "sourceSubject": "접수는 접수 봇, 감지와 요약은 모니터링 봇",
+  "deployedAt": "2026-09-01T08:36:20.112Z"
 }
