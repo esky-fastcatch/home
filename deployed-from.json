@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "8b7c432ded71475c13fd036c78daedc4cf2a0a37",
-  "sourceCommitDate": "2026-09-01T17:49:00+09:00",
-  "sourceSubject": "드롭다운이 열려도 화면이 흔들리지 않게 한다",
-  "deployedAt": "2026-09-01T08:49:21.527Z"
+  "sourceCommit": "c8ff5e28ad01f61f8eb2f0323a535f425b665371",
+  "sourceCommitDate": "2026-09-01T17:55:37+09:00",
+  "sourceSubject": "흔들리는 것은 고정 요소 하나뿐이었다",
+  "deployedAt": "2026-09-01T08:56:00.127Z"
 }
