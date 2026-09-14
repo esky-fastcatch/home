@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "2de9b3d44879c0404c2861ab3ed7686dda0dd05e",
-  "sourceCommitDate": "2026-09-01T18:43:47+09:00",
-  "sourceSubject": "접수에 감시 종료일을 함께 적는다",
-  "deployedAt": "2026-09-01T09:48:46.150Z"
+  "sourceCommit": "f6215fba907d78a0912ea04f3b5c678d1f814cc1",
+  "sourceCommitDate": "2026-09-14T23:45:16+09:00",
+  "sourceSubject": "저장소 안내 문서를 지금 구조에 맞춰 다시 쓴다",
+  "deployedAt": "2026-09-14T14:48:55.896Z"
 }
