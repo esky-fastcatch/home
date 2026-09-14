@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "f6215fba907d78a0912ea04f3b5c678d1f814cc1",
-  "sourceCommitDate": "2026-09-14T23:45:16+09:00",
-  "sourceSubject": "저장소 안내 문서를 지금 구조에 맞춰 다시 쓴다",
-  "deployedAt": "2026-09-14T14:48:55.896Z"
+  "sourceCommit": "47dd1878deb3226f04c1bd26acfe064f58b03ba0",
+  "sourceCommitDate": "2026-09-15T00:07:45+09:00",
+  "sourceSubject": "고객이 적은 요청사항을 접수 알림에도 싣는다",
+  "deployedAt": "2026-09-14T15:08:52.774Z"
 }
