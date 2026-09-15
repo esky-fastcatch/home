@@ -1,6 +1,6 @@
 {
-  "sourceCommit": "47dd1878deb3226f04c1bd26acfe064f58b03ba0",
-  "sourceCommitDate": "2026-09-15T00:07:45+09:00",
-  "sourceSubject": "고객이 적은 요청사항을 접수 알림에도 싣는다",
-  "deployedAt": "2026-09-14T15:41:29.892Z"
+  "sourceCommit": "3fc1844b14719681b0edcf338d2e2aa48d0952fb",
+  "sourceCommitDate": "2026-09-16T00:15:10+09:00",
+  "sourceSubject": "관내/관외 안내 문구를 한 줄로 이어 붙인다",
+  "deployedAt": "2026-09-15T15:16:28.806Z"
 }
